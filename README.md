@@ -1,4 +1,4 @@
-# Soldered Inkplate LVGL library
+# Soldered Inkplate LVGL Arduino library
 
 [![Compile Examples](https://github.com/SolderedElectronics/Inkplate-LVGL-Library/actions/workflows/compile.yml/badge.svg)](https://github.com/SolderedElectronics/Inkplate-LVGL-Library/actions/workflows/compile.yml)
 [![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Inkplate-LVGL-Library/actions/workflows/arduinoCompatibility.yml/badge.svg)](https://github.com/SolderedElectronics/Inkplate-LVGL-Library/actions/workflows/arduinoCompatibility.yml)
